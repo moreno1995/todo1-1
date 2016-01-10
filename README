@@ -1,0 +1,55 @@
+=============================================
+==                                         ==
+==                TODO 1                   ==
+==                                         ==
+=============================================
+==        Information about TODO 1         ==
+=============================================
+==                                         ==
+==   TODO 1 est une interface web simple   ==
+==   qui utilise Google Maps JavaScript API==
+==   notemment les bibliothèques           ==
+==   Autocomplete Places et Places Search. ==
+==   L'interface est composé d'un champ    ==
+==                                         ==
+==                                         ==
+==   Il permet de choisir une  ville       ==
+==    dès lors que l'on commence la saisie ==
+==    des caractères;                      ==
+==                                         ==
+==   Aussitôt une ville choisie et le      ==
+==   formulaire soumis vous pouvez alors   ==
+==   le soumettre!                         ==
+==   Vous obtenez alors les cinq villes    ==
+==   proches de la ville de départ !       ==
+==                                         ==
+=============================================
+==        Technologies utilisées           ==
+=============================================
+==                                         ==
+==   -JQuery 1.10.3                        ==
+==   -Bootstrap 3.2.0                      ==
+==   -Geobytes (http://geobytes.com/)      ==
+==   -PHP
+==                                         ==
+=============================================
+==             Installation                ==
+=============================================
+==  Un serveur PHP est obligatoire pour    ==
+== le fonctionnement du système:           ==
+== Décompressez l'archive et copiez le     ==
+== dossier (todo1) dans le dossier www de  ==
+== votre serveur local!                    ==
+== Accéder à l'application à l'adresse     ==
+== http://127.0.0.1/todo1/index.php        ==
+==             Enjoy!                      ==
+=============================================
+==                Auteurs                  ==
+=============================================
+==                                         ==
+== Junior Gantin (nioperas06@gmail.com)    ==
+== Moréno Djehouga (momodjehouga@gmail.com)==
+== Herman Tamadaho (tam.herman@yahoo.fr)   ==
+==                                         ==
+=============================================
+			Dynamic Dev Group
